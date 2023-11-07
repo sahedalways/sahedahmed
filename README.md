@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sahedalways" target="blank"><img src="https://img.shields.io/twitter/follow/sahedalways?logo=twitter&style=for-the-badge" alt="sahedalways" /></a> </p>
 
-- 🔭 I’m currently working on [Saheds Shop](https://github.com/sahedalways/MERN-ecommerce-app)
+- 🔭 I’m currently working on [Plugin Development](https://github.com/sahedalways/MERN-ecommerce-app)
 
 - 🌱 I’m currently learning **JavaScripts**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sahedahmed.netlify.app/](https://sahedahmed.netlify.app/)
 
-- 💬 Ask me about **React Js, PHP & JavaScript**
+- 💬 Ask me about **React Js,Next JS PHP, Laravel & JavaScript**
 
 - 📫 How to reach me **ssahed65@gmail.com**
 
