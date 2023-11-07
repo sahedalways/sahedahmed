@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif)](https://sahedahmed.netlify.app/)
 <h1 align="center">Hi 👋, I'm Sk Sahed Ahmed</h1>
-<h3 align="center">I am a Front-end Developer from Bangladesh</h3>
+<h3 align="center">I am a Fullstack Software Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahedalways&label=Profile%20views&color=0e75b6&style=flat" alt="sahedalways" /> </p>
